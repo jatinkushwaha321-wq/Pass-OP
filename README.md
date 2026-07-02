@@ -1,4 +1,4 @@
-# <PassOP /> - Your Own Password Manager
+# `<PassOP/>` - Your Own Password Manager
 
 A secure, intuitive, and modern local password manager that allows you to store, manage, and copy your credentials with ease. This project is built using a modern Full-Stack MERN-like architecture (React, Express, MongoDB) featuring styling powered by **Tailwind CSS v4** and interactive micro-animations powered by **Lordicon**.
 
